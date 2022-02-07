@@ -1,0 +1,7 @@
+<configs>
+
+	<append xpath="/lootcontainers/lootgroup[@name='groupDrinksUncommon']">
+		<item name="drinkMegaforce" count="1,2" loot_prob_template="med"/>
+	</append>
+
+</configs>

@@ -1,0 +1,3 @@
+Key,Source,Context,English
+drinkMegaforce,items,Food,Megaforce energydrink
+drinkMegaforceDesc,items,Food,Megaforce energydrink is very fresh and nutritious drink that will give you 20 seconds run speed bonus, 70% water and 50% faster stamina regenaration
